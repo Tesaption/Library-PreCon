@@ -1,0 +1,32 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST2023
+  Count=1
+[DETAIL]
+  File=C:\GEODET\00051
+  Count=3
+[DETAIL]
+  File=C:\GEODET\KR355IN300
+  Count=3
+[DETAIL]
+  File=C:\GEODET\PLAS212X212IN150
+  Count=9
+[DETAIL]
+  File=C:\GEODET\PRYAM155X50
+  Count=12
+[DETAIL]
+  File=C:\GEODET\KVAD90
+  Count=12
+[DETAIL]
+  File=C:\GEODET\PRYAM155X30
+  Count=6
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

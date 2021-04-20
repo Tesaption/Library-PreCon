@@ -1,0 +1,41 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\L15x3
+  Count=1
+[DETAIL]
+  File=C:\GEODET\BPP05191
+  Count=1
+[DETAIL]
+  File=C:\GEODET\BBr05181
+  Count=1
+[DETAIL]
+  File=C:\GEODET\BR03301d
+  Count=1
+[DETAIL]
+  File=C:\GEODET\BK33122
+  Count=1
+[DETAIL]
+  File=C:\GEODET\BPK3601
+  Count=1
+[DETAIL]
+  File=C:\GEODET\BRk3701
+  Count=1
+[DETAIL]
+  File=C:\GEODET\RB10341
+  Count=1
+[DETAIL]
+  File=C:\GEODET\rb102711
+  Count=1
+[DETAIL]
+  File=C:\GEODET\KSP11371
+  Count=1
+[MATERIAL]
+  Mark=Ст3
+  UdVes=7800
+  Thickness=16
+[DISTANCE]
+  DetToDet=13
+  DetToSheet=13
+[NC]
+  Name=

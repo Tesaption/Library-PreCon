@@ -1,0 +1,20 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\L15X3
+  Count=1
+[DETAIL]
+  File=C:\GEODET\295160
+  Count=1
+[DETAIL]
+  File=C:\GEODET\LGKJD35
+  Count=1
+[MATERIAL]
+  Mark=09Ã2Ñ
+  UdVes=7800
+  Thickness=10
+[DISTANCE]
+  DetToDet=13
+  DetToSheet=13
+[NC]
+  Name=

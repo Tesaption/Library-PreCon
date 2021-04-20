@@ -1,0 +1,35 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST1800x1000
+  Count=1
+[DETAIL]
+  File=C:\GEODET\RIZAG
+  Count=3
+[DETAIL]
+  File=C:\GEODET\ROMB1
+  Count=2
+[DETAIL]
+  File=C:\GEODET\COR40
+  Count=4
+[DETAIL]
+  File=C:\GEODET\PLAS260
+  Count=16
+[DETAIL]
+  File=C:\GEODET\CT45_40
+  Count=7
+[DETAIL]
+  File=C:\GEODET\S120-5
+  Count=14
+[DETAIL]
+  File=C:\GEODET\PRYAM100X51
+  Count=39
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

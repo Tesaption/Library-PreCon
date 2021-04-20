@@ -1,0 +1,35 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST2009
+  Count=1
+[DETAIL]
+  File=C:\GEODET\DD60
+  Count=20
+[DETAIL]
+  File=C:\GEODET\PRYAM200X500
+  Count=4
+[DETAIL]
+  File=C:\GEODET\DVOR4-3
+  Count=30
+[DETAIL]
+  File=C:\GEODET\IVAN10-8
+  Count=8
+[DETAIL]
+  File=C:\GEODET\KVAD105X109
+  Count=8
+[DETAIL]
+  File=C:\GEODET\PRYAM300
+  Count=12
+[DETAIL]
+  File=C:\GEODET\SH40
+  Count=2
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

@@ -1,0 +1,41 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST2010
+  Count=1
+[DETAIL]
+  File=C:\GEODET\ZVEN2
+  Count=6
+[DETAIL]
+  File=C:\GEODET\VOLAL56
+  Count=10
+[DETAIL]
+  File=C:\GEODET\PRSRR
+  Count=3
+[DETAIL]
+  File=C:\GEODET\KV50
+  Count=10
+[DETAIL]
+  File=C:\GEODET\USHKO
+  Count=23
+[DETAIL]
+  File=C:\GEODET\SRO1
+  Count=4
+[DETAIL]
+  File=C:\GEODET\URI10
+  Count=10
+[DETAIL]
+  File=C:\GEODET\STROI2
+  Count=3
+[DETAIL]
+  File=C:\GEODET\STRM3
+  Count=6
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

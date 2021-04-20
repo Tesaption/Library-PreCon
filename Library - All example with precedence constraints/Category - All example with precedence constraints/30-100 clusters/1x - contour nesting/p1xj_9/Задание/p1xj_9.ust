@@ -1,0 +1,38 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST2000X1300
+  Count=1
+[DETAIL]
+  File=C:\GEODET\STRM6
+  Count=10
+[DETAIL]
+  File=C:\GEODET\DIME10
+  Count=12
+[DETAIL]
+  File=C:\GEODET\MEU10-9
+  Count=6
+[DETAIL]
+  File=C:\GEODET\PRYAM200X500
+  Count=11
+[DETAIL]
+  File=C:\GEODET\MIX1-8
+  Count=6
+[DETAIL]
+  File=C:\GEODET\DET30
+  Count=15
+[DETAIL]
+  File=C:\GEODET\NER50
+  Count=4
+[DETAIL]
+  File=C:\GEODET\PRYAM100X90
+  Count=12
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

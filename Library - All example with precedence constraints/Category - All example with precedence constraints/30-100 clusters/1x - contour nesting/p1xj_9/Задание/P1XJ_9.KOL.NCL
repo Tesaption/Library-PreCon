@@ -1,0 +1,1 @@
+C:\GEODET\MIX1-8 10

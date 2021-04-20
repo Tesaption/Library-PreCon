@@ -1,0 +1,44 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST1700x900
+  Count=1
+[DETAIL]
+  File=C:\GEODET\KR150
+  Count=3
+[DETAIL]
+  File=C:\GEODET\UIB4
+  Count=1
+[DETAIL]
+  File=C:\GEODET\PK5-1
+  Count=6
+[DETAIL]
+  File=C:\GEODET\KAR10
+  Count=6
+[DETAIL]
+  File=C:\GEODET\FLN2
+  Count=3
+[DETAIL]
+  File=C:\GEODET\16POLI11
+  Count=6
+[DETAIL]
+  File=C:\GEODET\KVAFRAMP
+  Count=3
+[DETAIL]
+  File=C:\GEODET\PRYAM150X40
+  Count=3
+[DETAIL]
+  File=C:\GEODET\PRYAM180X40
+  Count=11
+[DETAIL]
+  File=C:\GEODET\PRYAM50X105
+  Count=1
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

@@ -1,0 +1,38 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST2010
+  Count=1
+[DETAIL]
+  File=C:\GEODET\12-80012
+  Count=2
+[DETAIL]
+  File=C:\GEODET\VAS1
+  Count=3
+[DETAIL]
+  File=C:\GEODET\TR6
+  Count=14
+[DETAIL]
+  File=C:\GEODET\TR110X110
+  Count=8
+[DETAIL]
+  File=C:\GEODET\KR400IN340
+  Count=1
+[DETAIL]
+  File=C:\GEODET\TEP4-25
+  Count=1
+[DETAIL]
+  File=C:\GEODET\USHKO
+  Count=10
+[DETAIL]
+  File=C:\GEODET\PRYAM100X50_1
+  Count=10
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

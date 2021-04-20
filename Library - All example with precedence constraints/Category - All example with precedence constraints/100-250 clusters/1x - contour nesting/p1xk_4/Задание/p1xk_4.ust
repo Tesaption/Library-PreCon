@@ -1,0 +1,29 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST1
+  Count=1
+[DETAIL]
+  File=C:\GEODET\12-80009
+  Count=38
+[DETAIL]
+  File=C:\GEODET\12-80012
+  Count=38
+[DETAIL]
+  File=C:\GEODET\12-80019
+  Count=19
+[DETAIL]
+  File=C:\GEODET\12-80026
+  Count=38
+[DETAIL]
+  File=C:\GEODET\12-80031
+  Count=19
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=5
+[DISTANCE]
+  DetToDet=5
+  DetToSheet=5
+[NC]
+  Name=

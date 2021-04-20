@@ -1,0 +1,32 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST2000x1200
+  Count=1
+[DETAIL]
+  File=C:\GEODET\KR152
+  Count=13
+[DETAIL]
+  File=C:\GEODET\KR267
+  Count=5
+[DETAIL]
+  File=C:\GEODET\BODVD1
+  Count=2
+[DETAIL]
+  File=C:\GEODET\KUR2_1
+  Count=4
+[DETAIL]
+  File=C:\GEODET\NX8-12
+  Count=25
+[DETAIL]
+  File=C:\GEODET\40ZOL-10
+  Count=7
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

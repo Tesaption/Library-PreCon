@@ -1,0 +1,35 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST2002
+  Count=1
+[DETAIL]
+  File=C:\GEODET\24SH2
+  Count=5
+[DETAIL]
+  File=C:\GEODET\PRYAM300X260
+  Count=6
+[DETAIL]
+  File=C:\GEODET\MIX1
+  Count=26
+[DETAIL]
+  File=C:\GEODET\PRYAM100X50
+  Count=26
+[DETAIL]
+  File=C:\GEODET\PRYAM221X370
+  Count=6
+[DETAIL]
+  File=C:\GEODET\PR350X120
+  Count=9
+[DETAIL]
+  File=C:\GEODET\PRYAM221X372
+  Count=5
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

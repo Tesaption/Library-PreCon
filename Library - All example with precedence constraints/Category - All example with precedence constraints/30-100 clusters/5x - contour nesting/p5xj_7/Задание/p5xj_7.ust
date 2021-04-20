@@ -1,0 +1,38 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST1650x900
+  Count=1
+[DETAIL]
+  File=C:\GEODET\12POLI7
+  Count=2
+[DETAIL]
+  File=C:\GEODET\PLAS150X250
+  Count=12
+[DETAIL]
+  File=C:\GEODET\16POLI8
+  Count=5
+[DETAIL]
+  File=C:\GEODET\12-ZOL1
+  Count=10
+[DETAIL]
+  File=C:\GEODET\KR200
+  Count=6
+[DETAIL]
+  File=C:\GEODET\PRYAM100X50
+  Count=10
+[DETAIL]
+  File=C:\GEODET\PRYAM100X51
+  Count=10
+[DETAIL]
+  File=C:\GEODET\TR110X135
+  Count=8
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

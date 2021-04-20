@@ -1,0 +1,41 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST2014
+  Count=1
+[DETAIL]
+  File=C:\GEODET\12-80026
+  Count=10
+[DETAIL]
+  File=C:\GEODET\AK3000
+  Count=6
+[DETAIL]
+  File=C:\GEODET\DK12
+  Count=22
+[DETAIL]
+  File=C:\GEODET\BS6-32
+  Count=6
+[DETAIL]
+  File=C:\GEODET\BS8-18
+  Count=5
+[DETAIL]
+  File=C:\GEODET\CVER61
+  Count=12
+[DETAIL]
+  File=C:\GEODET\DD60
+  Count=20
+[DETAIL]
+  File=C:\GEODET\DD63
+  Count=9
+[DETAIL]
+  File=C:\GEODET\DEC15
+  Count=5
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

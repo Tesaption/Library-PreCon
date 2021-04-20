@@ -1,0 +1,32 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST2008
+  Count=1
+[DETAIL]
+  File=C:\GEODET\12-80012
+  Count=10
+[DETAIL]
+  File=C:\GEODET\12-80019
+  Count=6
+[DETAIL]
+  File=C:\GEODET\PRYAM300X50
+  Count=6
+[DETAIL]
+  File=C:\GEODET\UIB4
+  Count=8
+[DETAIL]
+  File=C:\GEODET\PRYAM221X372
+  Count=6
+[DETAIL]
+  File=C:\GEODET\TREUG
+  Count=10
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=5
+[DISTANCE]
+  DetToDet=5
+  DetToSheet=5
+[NC]
+  Name=

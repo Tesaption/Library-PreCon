@@ -1,0 +1,20 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\L1000
+  Count=1
+[DETAIL]
+  File=C:\GEODET\PRYAM36X100
+  Count=50
+[DETAIL]
+  File=C:\GEODET\PRYAM125X160
+  Count=74
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=5
+[DISTANCE]
+  DetToDet=5
+  DetToSheet=5
+[NC]
+  Name=

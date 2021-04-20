@@ -1,0 +1,41 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST2001
+  Count=1
+[DETAIL]
+  File=C:\GEODET\12-80012
+  Count=5
+[DETAIL]
+  File=C:\GEODET\AD200
+  Count=20
+[DETAIL]
+  File=C:\GEODET\BOBA
+  Count=10
+[DETAIL]
+  File=C:\GEODET\BLAG1
+  Count=3
+[DETAIL]
+  File=C:\GEODET\GUD110
+  Count=15
+[DETAIL]
+  File=C:\GEODET\16ZAK10
+  Count=4
+[DETAIL]
+  File=C:\GEODET\PRYAM36X100
+  Count=12
+[DETAIL]
+  File=C:\GEODET\PRYAM50X105
+  Count=12
+[DETAIL]
+  File=C:\GEODET\PRYAM90X70
+  Count=12
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

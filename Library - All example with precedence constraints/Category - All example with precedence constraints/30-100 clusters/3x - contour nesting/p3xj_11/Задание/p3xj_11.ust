@@ -1,0 +1,50 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST2009
+  Count=1
+[DETAIL]
+  File=C:\GEODET\12-80012
+  Count=4
+[DETAIL]
+  File=C:\GEODET\KV350X312
+  Count=3
+[DETAIL]
+  File=C:\GEODET\KAR10-1
+  Count=4
+[DETAIL]
+  File=C:\GEODET\Pryam70x160
+  Count=1
+[DETAIL]
+  File=C:\GEODET\16ZAK14
+  Count=12
+[DETAIL]
+  File=C:\GEODET\KV22
+  Count=6
+[DETAIL]
+  File=C:\GEODET\FLN3
+  Count=4
+[DETAIL]
+  File=C:\GEODET\PR340X145
+  Count=3
+[DETAIL]
+  File=C:\GEODET\PR240X145
+  Count=3
+[DETAIL]
+  File=C:\GEODET\PR350X120
+  Count=1
+[DETAIL]
+  File=C:\GEODET\KR255
+  Count=3
+[DETAIL]
+  File=C:\GEODET\PRYAM100X50
+  Count=1
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

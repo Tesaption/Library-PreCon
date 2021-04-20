@@ -1,0 +1,1 @@
+C:\GEODET\DIMM2 20

@@ -1,0 +1,38 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST2014
+  Count=1
+[DETAIL]
+  File=C:\GEODET\PRYAM255X300
+  Count=6
+[DETAIL]
+  File=C:\GEODET\RSU10-2
+  Count=4
+[DETAIL]
+  File=C:\GEODET\REV2
+  Count=2
+[DETAIL]
+  File=C:\GEODET\RELS20-2
+  Count=10
+[DETAIL]
+  File=C:\GEODET\PRYAM360
+  Count=8
+[DETAIL]
+  File=C:\GEODET\PRYAM230X200
+  Count=4
+[DETAIL]
+  File=C:\GEODET\PRYAM100X90
+  Count=2
+[DETAIL]
+  File=C:\GEODET\KVAFRAMP
+  Count=2
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

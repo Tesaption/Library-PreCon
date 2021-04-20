@@ -1,0 +1,29 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST2013
+  Count=1
+[DETAIL]
+  File=C:\GEODET\KRYG4001
+  Count=3
+[DETAIL]
+  File=C:\GEODET\FS8-13
+  Count=1
+[DETAIL]
+  File=C:\GEODET\PRYAM148X110
+  Count=18
+[DETAIL]
+  File=C:\GEODET\PRYAM260X130
+  Count=16
+[DETAIL]
+  File=C:\GEODET\PRYAM114
+  Count=6
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

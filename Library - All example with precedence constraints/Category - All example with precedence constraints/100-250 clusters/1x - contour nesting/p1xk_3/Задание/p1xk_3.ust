@@ -1,0 +1,32 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST
+  Count=1
+[DETAIL]
+  File=C:\GEODET\16-GF5
+  Count=5
+[DETAIL]
+  File=C:\GEODET\16ZAK14
+  Count=10
+[DETAIL]
+  File=C:\GEODET\12-80019
+  Count=6
+[DETAIL]
+  File=C:\GEODET\12POLI10
+  Count=6
+[DETAIL]
+  File=C:\GEODET\12POLI2
+  Count=5
+[DETAIL]
+  File=C:\GEODET\16-80014
+  Count=8
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

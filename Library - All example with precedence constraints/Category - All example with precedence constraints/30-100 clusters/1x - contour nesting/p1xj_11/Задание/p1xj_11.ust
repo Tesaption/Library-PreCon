@@ -1,0 +1,44 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST15
+  Count=1
+[DETAIL]
+  File=C:\GEODET\PRYAM366
+  Count=4
+[DETAIL]
+  File=C:\GEODET\PRYAM326X1
+  Count=2
+[DETAIL]
+  File=C:\GEODET\PRYAM350X160
+  Count=8
+[DETAIL]
+  File=C:\GEODET\PRYAM326
+  Count=2
+[DETAIL]
+  File=C:\GEODET\NM-4
+  Count=4
+[DETAIL]
+  File=C:\GEODET\LOPAS1
+  Count=4
+[DETAIL]
+  File=C:\GEODET\PRYAM430X65
+  Count=8
+[DETAIL]
+  File=C:\GEODET\RI3-10
+  Count=6
+[DETAIL]
+  File=C:\GEODET\SER6-1
+  Count=6
+[DETAIL]
+  File=C:\GEODET\SKOB4
+  Count=6
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=

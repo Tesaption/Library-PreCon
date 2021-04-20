@@ -1,0 +1,41 @@
+[VERSION]
+  Number=1.00
+[SHEET]
+  File=C:\GEODET\S\LIST2000x1200
+  Count=1
+[DETAIL]
+  File=C:\GEODET\KVAD300X300
+  Count=6
+[DETAIL]
+  File=C:\GEODET\KVAD450X450
+  Count=6
+[DETAIL]
+  File=C:\GEODET\PRYAM360
+  Count=2
+[DETAIL]
+  File=C:\GEODET\PRYAM100
+  Count=2
+[DETAIL]
+  File=C:\GEODET\PRYAM130X60
+  Count=2
+[DETAIL]
+  File=C:\GEODET\PRYAM200X500
+  Count=1
+[DETAIL]
+  File=C:\GEODET\PRYAM255X500
+  Count=5
+[DETAIL]
+  File=C:\GEODET\PRYAM405X115
+  Count=3
+[DETAIL]
+  File=C:\GEODET\PRYAM100X51
+  Count=6
+[MATERIAL]
+  Mark=
+  UdVes=7800
+  Thickness=20
+[DISTANCE]
+  DetToDet=15
+  DetToSheet=15
+[NC]
+  Name=
